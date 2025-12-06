@@ -149,3 +149,7 @@ delay (2000);
 3. Instalamos las siguiente libreria ```LiquidCrystal I2C```.
 ## Resultados y evidencia
 - Pusimos que cada led iluminado indica el porcentaje del tanque que marca nuestro sensor ultrasonico.
+![](https://github.com/raul7ops-sketch/Reporte-6-nivel-de-tanque/blob/main/reporte%206.1.png?raw=true)
+### Aqui se puede ver claramente como indica que el tanque esta a su 50% de su capacidad y se encienden los dos leds deinferiores para señalar con un indicador luminico
+## Creditos
+Esta practica fue elaborada por Raul Aguilar https://github.com/raul7ops-sketch
