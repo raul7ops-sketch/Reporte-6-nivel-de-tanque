@@ -8,3 +8,4 @@
 - Leds variados
 ## Procedimiento
 1. Abriremos nuestro Wokwi para poder acomodar los dispositivos anterior mencionados de la siguiente manera:
+![]
